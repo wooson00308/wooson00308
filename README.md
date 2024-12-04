@@ -1,9 +1,3 @@
-# 👋 Hello, I'm Thon!
-
-As a **Unity Game Client Developer**, I am passionate about creating creative and interactive experiences. I always enjoy learning new technologies and embracing new challenges.
-
----
-
 ## 🔧 Tech Stack
 
 ![Unity](https://img.shields.io/badge/Unity-2021.3-blue?logo=unity&logoColor=white)
