@@ -31,8 +31,6 @@
   ### 🚀 **Armored Core 6**
 
   ![Armored Core 6](https://cdn.cloudflare.steamstatic.com/steam/apps/1888160/header.jpg)
-
-  - Mecha Action Game
   - [Steam Link](https://store.steampowered.com/app/1888160/)
 
   ---
@@ -40,8 +38,6 @@
   ### 🧙 **Baldur's Gate 3**
 
   ![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)
-
-  - The Latest in Classic RPGs
   - [Steam Link](https://store.steampowered.com/app/1086940/)
 
   ---
@@ -49,8 +45,6 @@
   ### 🐉 **Dragon's Dogma 2**
 
   ![Dragon's Dogma 2](https://cdn.cloudflare.steamstatic.com/steam/apps/2054970/header.jpg)
-
-  - Open World Action RPG
   - [Steam Link](https://store.steampowered.com/app/2054970/Dragons_Dogma_2/)
 
   ---
@@ -58,8 +52,6 @@
   ### 🏔️ **The Elder Scrolls V: Skyrim**
 
   ![The Elder Scrolls V: Skyrim](https://cdn.cloudflare.steamstatic.com/steam/apps/72850/header.jpg)
-
-  - Explore a Vast Fantasy World
   - [Steam Link](https://store.steampowered.com/app/72850/)
 
   ---
@@ -67,8 +59,6 @@
   ### 🧠 **Teamfight Manager**
 
   ![Teamfight Manager](https://cdn.cloudflare.steamstatic.com/steam/apps/1372810/header.jpg)
-
-  - eSports Team Management Simulation
   - [Steam Link](https://store.steampowered.com/app/1372810/)
 
   ---
@@ -76,8 +66,6 @@
   ### 🗡️ **Assassin's Creed: The Ezio Saga Series**
 
   ![Assassin's Creed Ezio Saga](https://cdn.cloudflare.steamstatic.com/steam/apps/48190/header.jpg)
-
-  - Action Games Featuring Ezio's Adventures
   - [Steam Link](https://store.steampowered.com/app/48190/)
 
 </details>
